@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Dasturlash",
+    "surName": "Frontend",
+    // "category": "Dasturlash",
+
+    "img": "https://media.proglib.io/posts/2019/11/03/c236c35c960c7016e0d785b0558026c4.png"
+  },
+  {
+    "id": 2,
+    "name": "Dasturlash",
+    "surName": "Backend",
+    // "category": "Dasturlash",
+
+    "img": "https://plopdo.com/wp-content/uploads/2021/10/What-is-back-end-development-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dasturlash",
+    "surName": "Android",
+    // "category": "Dasturlash",
+
+    "img": "https://cdnstatic.rg.ru/uploads/images/2023/11/21/2023-10-23t105128z_115259364_mt1sipa0007109zu_rtrmadp_3_sipa-usajpg_645.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Word",
+    "surName": "Savodxonlik darslari",
+    // "category": "Savodxonlik",
+
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/microsoft-word-now-and-then-260729887-16x9_0.jpg?VersionId=A7SIGsCjBX7cPf57wmx8T8M.6Oc_6sZ8"
+  },
+  {
+    "id": 5,
+    "name": "Excel",
+    "surName": "Savodxonlik darslari",
+    // "category": "Savodxonlik",
+
+    "img": "https://assets-global.website-files.com/62db4aab7889390b30116fbb/6577ba52ca4c394d886459fe_excel.png"
+  },
+  {
+    "id": 6,
+    "name": "Power point",
+    "surName": "Savodxonlik darslari",
+    // "category": "Savodxonlik",
+
+    "img": "https://www.aiseesoft.com/images/powerpoint-to-video-dvd-converter/make-a-powerpoint.jpg"
+  },
+  {
+    "id": 7,
+    "name": "React js",
+    "surName": "Frontend darslari",
+    // "category": "Dasturlash",
+    "img": "https://www.achieversit.com/management/uploads/course_image/React-js.png.png"
+  },
+  {
+    "id": 8,
+    "name": "PYTHON",
+    "surName": "Backend darslari",
+    // "category": "Dasturlash",
+    "img": "https://img-b.udemycdn.com/course/750x422/919038_3ae1_13.jpg"
+  },
+  {
+    "id": 9,
+    "name": "3D MAX",
+    "surName": "3D MAX",
+    // "category": "3D MAX",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ea2aa6d4-ecab-4a8d-92f4-40f8a0829c24/ddfiavd-fb0487e3-c862-4b32-b6bc-057a5b9c2bcb.png"
+  },
+  {
+    "id": 10,
+    "name": "Photoshop",
+    "surName": "Photoshop darslari",
+    // "category": "Photoshop",
+    "img": "https://thumbs.dreamstime.com/z/vinnytsia-ukraine-april-adobe-photoshop-logo-vector-icon-isolated-white-background-adobe-photoshop-logo-vector-icon-isolated-215484951.jpg"
+  }
+]
